@@ -8,7 +8,7 @@ using namespace std;
 
 int iniciador (){
 
-    cout << "O programa deu certo, parabens eu sei funcao";
+    cout << "O programa deu certo, parabens eu sei funcao \n";
     return 0;
 } 
 
